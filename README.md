@@ -4,7 +4,7 @@
 
 1. Clone this project
 ```
-
+https://github.com/Aniruddhakharve/My-AWS-Project.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
